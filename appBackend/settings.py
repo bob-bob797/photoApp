@@ -26,7 +26,8 @@ SECRET_KEY = '$t(0yti!bizf6*qs^p9hfd9h2e4&eu7!v93bi$i0qtaa0#^3m5'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "192.168.5.1"
+    "192.168.5.1",
+    "http://ec2-54-200-169-163.us-west-2.compute.amazonaws.com/",
 ]
 
 
