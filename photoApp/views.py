@@ -3,7 +3,7 @@ from django.http import HttpResponse
 from PIL import Image
 
 def index(request):
-    return HttpResponse(Image.open("Dog.jpg"))
+    return HttpResponse(open("Dog.jpg").read())
 
 def appIndex(request):
-    return Image.open("Dog.jpg")
+    return open("Dog.jpg").read()
