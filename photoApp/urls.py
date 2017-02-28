@@ -1,3 +1,4 @@
+
 from django.conf.urls import url
 
 from . import webViews
@@ -10,6 +11,7 @@ urlpatterns = [
     url(r'^room/displayroom/(?P<room_code>.+)/$', webViews.DisplayRoom.as_view(), name='display_room'),
 
     url(r'^picture/postPicture/(?P<room_code>.+)/$', webViews.PostPicture.as_view(), name='post_picture'),
+    url(r'^picture/displayPicture/$', webViews.displayPicture.as_view(), name='display_picture'),
 
 
     #App endpoints
