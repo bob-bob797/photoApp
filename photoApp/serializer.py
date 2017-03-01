@@ -12,7 +12,7 @@ class roomSerializer(serializers.ModelSerializer):
         for pic in picture.objects.all().filter(room__room_code=obj.room_code):
             pics.append(
                 {
-                    'URL': host + pic.pic.url,
+                    'URL': "http://" + host + pic.pic.url,
                     'Name': pic.name,
                     'Created': pic.created_at
                 }
