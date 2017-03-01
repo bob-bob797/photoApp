@@ -31,6 +31,10 @@ class displayPicture(generics.RetrieveAPIView):
     def get_object(self):
         return picture.objects.all().first()
 
+def postPicture(request):
+    if request.method == ' POST':
+        print request.FILES['file']
+    return HttpResponse("Thanks")
 
 class PostPicture(generics.CreateAPIView):
     serializer_class = pictureSerializer
