@@ -6,5 +6,6 @@ urlpatterns = [
     url(r'^$', webViews.index, name='index'),
     url(r'^room/createRoom/(?P<room_name>.+)/$', webViews.CreateRoom.as_view(), name='create_room'),
     url(r'^room/displayRoom/(?P<room_code>.+)/$', webViews.DisplayRoom.as_view(), name='display_room'),
-    url(r'^room/upload/(?P<room_code>.+)/$', webViews.postPicture, name='post_picture'),
+    url(r'^room/upload/(?P<room_code>.+)/$', webViews.simple_upload, name='post_picture'),
+
 ]

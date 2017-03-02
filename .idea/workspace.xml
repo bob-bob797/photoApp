@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5830bcdf-5d6a-4fff-81b1-8fdb041347a8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appBackend/settings.py" afterPath="$PROJECT_DIR$/appBackend/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoApp/urls.py" afterPath="$PROJECT_DIR$/photoApp/urls.py" />
     </list>
     <ignored path="appBackend.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -532,7 +529,8 @@
     <MESSAGE value="Dog pic" />
     <MESSAGE value="First post endpoint attempt&#10;" />
     <MESSAGE value="Second post endpoint attempt&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second post endpoint attempt&#10;" />
+    <MESSAGE value="More pictures in DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="More pictures in DB" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
