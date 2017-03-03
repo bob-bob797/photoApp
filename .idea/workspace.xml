@@ -3,11 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="5830bcdf-5d6a-4fff-81b1-8fdb041347a8" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/photoApp/forms.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/20170302_002220.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/BackArrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/Dog.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/Dog_AbTlnmt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/ForwardArrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/cat.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/cat_GuoGpGt.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/cat_HmtpOhy.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/cat_XjxrScL.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/cat_qqfSqZS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/fightclub.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/picture" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/saveicon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/starwars.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/superman.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/themartian.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/appBackend.iml" afterPath="$PROJECT_DIR$/.idea/appBackend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/appBackend/settings.py" afterPath="$PROJECT_DIR$/appBackend/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoApp/forms.py" afterPath="$PROJECT_DIR$/photoApp/forms.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoApp/urls.py" afterPath="$PROJECT_DIR$/photoApp/urls.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/photoApp/webViews.py" afterPath="$PROJECT_DIR$/photoApp/webViews.py" />
     </list>
@@ -56,16 +70,13 @@
       <file leaf-file-name="webViews.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/photoApp/webViews.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+            <state relative-caret-position="425">
+              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
               <folding>
-                <element signature="e#0#36#0" expanded="true" />
-                <element signature="e#230#279#0" expanded="false" />
-                <element signature="e#327#394#0" expanded="false" />
-                <element signature="e#441#574#0" expanded="false" />
-                <element signature="e#628#773#0" expanded="false" />
-                <element signature="e#805#904#0" expanded="false" />
-                <element signature="e#953#1089#0" expanded="false" />
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#245#294#0" expanded="false" />
+                <element signature="e#342#409#0" expanded="false" />
+                <element signature="e#456#589#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -86,19 +97,11 @@
       <file leaf-file-name="faker.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/Faker/faker.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/photoApp/forms.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -127,8 +130,8 @@
         <option value="$PROJECT_DIR$/photoApp/serializer.py" />
         <option value="$PROJECT_DIR$/photoApp/froms.py" />
         <option value="$PROJECT_DIR$/appBackend/settings.py" />
-        <option value="$PROJECT_DIR$/photoApp/forms.py" />
         <option value="$PROJECT_DIR$/photoApp/urls.py" />
+        <option value="$PROJECT_DIR$/photoApp/forms.py" />
         <option value="$USER_HOME$/PycharmProjects/Faker/faker.py" />
         <option value="$PROJECT_DIR$/photoApp/webViews.py" />
       </list>
@@ -227,6 +230,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appBackend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="appBackend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pictures" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="171048e4-ac27-4727-89f7-713b203adcff" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -242,7 +267,7 @@
       <recent name="C:\Users\Jim Notaro\PycharmProjects\Faker" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Faker">
+  <component name="RunManager" selected="Python.Run Server">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -566,14 +591,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19114584" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.50416666" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3308668" sideWeight="0.49583334" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.49583334" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -619,14 +644,14 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/photoApp/webViews.py</url>
-          <line>45</line>
-          <option name="timeStamp" value="10" />
+          <line>31</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="11" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -635,16 +660,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/photoApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/photoApp/serializer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -660,13 +675,10 @@
         <state relative-caret-position="357">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#230#279#0" expanded="false" />
-            <element signature="e#327#394#0" expanded="false" />
-            <element signature="e#441#574#0" expanded="false" />
-            <element signature="e#628#773#0" expanded="false" />
-            <element signature="e#805#904#0" expanded="false" />
-            <element signature="e#953#1089#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#245#294#0" expanded="false" />
+            <element signature="e#342#409#0" expanded="false" />
+            <element signature="e#456#589#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -714,13 +726,10 @@
         <state relative-caret-position="357">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#230#279#0" expanded="false" />
-            <element signature="e#327#394#0" expanded="false" />
-            <element signature="e#441#574#0" expanded="false" />
-            <element signature="e#628#773#0" expanded="false" />
-            <element signature="e#805#904#0" expanded="false" />
-            <element signature="e#953#1089#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#245#294#0" expanded="false" />
+            <element signature="e#342#409#0" expanded="false" />
+            <element signature="e#456#589#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -768,13 +777,10 @@
         <state relative-caret-position="357">
           <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#230#279#0" expanded="false" />
-            <element signature="e#327#394#0" expanded="false" />
-            <element signature="e#441#574#0" expanded="false" />
-            <element signature="e#628#773#0" expanded="false" />
-            <element signature="e#805#904#0" expanded="false" />
-            <element signature="e#953#1089#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#245#294#0" expanded="false" />
+            <element signature="e#342#409#0" expanded="false" />
+            <element signature="e#456#589#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -822,13 +828,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#230#279#0" expanded="false" />
-            <element signature="e#327#394#0" expanded="false" />
-            <element signature="e#441#574#0" expanded="false" />
-            <element signature="e#628#773#0" expanded="false" />
-            <element signature="e#805#904#0" expanded="false" />
-            <element signature="e#953#1089#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#245#294#0" expanded="false" />
+            <element signature="e#342#409#0" expanded="false" />
+            <element signature="e#456#589#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -886,13 +889,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#230#279#0" expanded="false" />
-            <element signature="e#327#394#0" expanded="false" />
-            <element signature="e#441#574#0" expanded="false" />
-            <element signature="e#628#773#0" expanded="false" />
-            <element signature="e#805#904#0" expanded="false" />
-            <element signature="e#953#1089#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#245#294#0" expanded="false" />
+            <element signature="e#342#409#0" expanded="false" />
+            <element signature="e#456#589#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -940,13 +940,10 @@
         <state relative-caret-position="306">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#230#279#0" expanded="false" />
-            <element signature="e#327#394#0" expanded="false" />
-            <element signature="e#441#574#0" expanded="false" />
-            <element signature="e#628#773#0" expanded="false" />
-            <element signature="e#805#904#0" expanded="false" />
-            <element signature="e#953#1089#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#245#294#0" expanded="false" />
+            <element signature="e#342#409#0" expanded="false" />
+            <element signature="e#456#589#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1034,32 +1031,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/photoApp/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Python27/Lib/site-packages/django/core/handlers/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/photoApp/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/photoApp/serializer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1080,26 +1051,77 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/django/core/handlers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="184" column="0" selection-start-line="184" selection-start-column="0" selection-end-line="184" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoApp/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tmp.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cat.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/photoApp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/tmpName">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/pictures/171048e4-ac27-4727-89f7-713b203adcff/tmpName_Hj6UJTE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2298">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/Faker/faker.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding />
+        <state relative-caret-position="136">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/photoApp/webViews.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
+        <state relative-caret-position="425">
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
           <folding>
-            <element signature="e#0#36#0" expanded="true" />
-            <element signature="e#230#279#0" expanded="false" />
-            <element signature="e#327#394#0" expanded="false" />
-            <element signature="e#441#574#0" expanded="false" />
-            <element signature="e#628#773#0" expanded="false" />
-            <element signature="e#805#904#0" expanded="false" />
-            <element signature="e#953#1089#0" expanded="false" />
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#245#294#0" expanded="false" />
+            <element signature="e#342#409#0" expanded="false" />
+            <element signature="e#456#589#0" expanded="false" />
           </folding>
         </state>
       </provider>

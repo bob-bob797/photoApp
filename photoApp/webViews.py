@@ -1,3 +1,5 @@
+import base64
+
 from django.http import HttpResponse
 from rest_framework import generics
 
@@ -19,30 +21,15 @@ class DisplayRoom(generics.ListAPIView):
     def get_queryset(self):
         return room.objects.filter(room_code=self.kwargs["room_code"])
 
-class displayPicture(generics.RetrieveAPIView):
-    serializer_class = pictureSerializer
-    queryset = picture.objects.all()
-
-    def get_object(self):
-        return picture.objects.all().first()
-
-def postPicture(request):
-    if request.method == ' POST':
-        print request.FILES['file']
-    return HttpResponse("Thanks")
-
-class PostPicture(generics.CreateAPIView):
-    serializer_class = pictureSerializer
-
-    def get_queryset(self):
-        return room.objects.filter(room_code=self.kwargs["room_code"])
-
-@
 def simple_upload(request):
     if request.method == 'POST':
         form = documentForm(request.POST, request.FILES)
         if form.is_valid():
             this_room = room.objects.filter(room_code=form.data["room_code"]).first()
-            pic = picture(pic=request.FILES['picture'], name=form.data["name"], room=this_room)
-            pic.save()
+            pic = base64.b64decode(form.data['picture'])
+            with open(form.data['name']+'.jpg', 'wb+') as f:
+                f.write(pic)
+                pic = picture(name=form.data["name"] + '.jpg', room=this_room)
+                pic.pic.save(form.data['name']+'.jpg', f)
+                pic.save()
             return HttpResponse("Received")
