@@ -27,9 +27,10 @@ def simple_upload(request):
         if form.is_valid():
             this_room = room.objects.filter(room_code=form.data["room_code"]).first()
             pic = base64.b64decode(form.data['picture'])
-            with open(form.data['name']+'.jpg', 'wb+') as f:
+            with open('tmp', 'wb+') as f:
                 f.write(pic)
                 pic = picture(name=form.data["name"] + '.jpg', room=this_room)
                 pic.pic.save(form.data['name']+'.jpg', f)
                 pic.save()
+
             return HttpResponse("Received")
